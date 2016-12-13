@@ -19,7 +19,6 @@ ExportedObj/
 *.svd
 *.keystore
 
-
 # Unity3D generated meta files
 *.pidb.meta
 *.meta
