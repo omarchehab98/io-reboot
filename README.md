@@ -22,3 +22,5 @@ This puzzle game was written when I was in highschool, so it lacks propper docum
 
 ## Legal
 Google Play and the Google Play logo are trademarks of Google Inc.
+
+[Privacy Policy](https://goo.gl/NBWcpK)
