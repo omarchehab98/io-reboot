@@ -18,7 +18,7 @@ The puzzle idea sprung off of designing an algorithm that progressively generate
 * Player data is saved on the disk using Advanced Encryption Standard. [Source File](https://github.com/omarchehab98/ioreboot/blob/master/Assets/Scripts/Data/Encryption.cs)
 
 ## Development
-This puzzle game was written when I was in highschool, so it lacks propper documentation.
+This puzzle game was written when I was in highschool, so it lacks proper documentation.
 
 ## Legal
 Google Play and the Google Play logo are trademarks of Google Inc.
